@@ -1,0 +1,31 @@
+body{
+    background-color:yellow;
+    border: 2px solid maroon;
+}
+
+h1{
+    text-align: center;
+    color: maroon;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 350px;
+    height: auto;
+}
+
+h1,h2,h3,h4{
+    color: maroon;
+}
+
+a{
+
+    display: inline-block;
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 6px;
+    margin: 8px;
+}
